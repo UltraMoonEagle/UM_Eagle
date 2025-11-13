@@ -65,23 +65,6 @@
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adithya-a&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adithya-a&theme=radical&hide_border=true" alt="GitHub Streak" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adithya-a&layout=compact&theme=radical&hide_border=true&langs_count=10" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adithya-a&theme=react-dark&hide_border=true&area=true" alt="Activity Graph"/>
-</p>
-
----
-
 ## 🏆 Achievements & Certifications
 
 ### 🚩 CTF Competitions
@@ -106,7 +89,7 @@
 
 ## 💼 Featured Projects
 
-### 🔗 [FlowForge](https://github.com/Adithya-A/flowforge)
+### 🔗 [FlowForge]([https://github.com/UltraMoonEagle/FlowForge])
 **Enterprise iPaaS Workflow Automation Platform**
 `NestJS` `TypeScript` `Redis` `BullMQ` `React` `PostgreSQL`
 
@@ -115,7 +98,7 @@
 - Real-time monitoring with WebSocket-driven updates
 - Topological sorting, structured logging, retry/failure policies
 
-### 🔐 [PenGUIn](https://github.com/Adithya-A/penguin)
+### 🔐 [PenGUIn]((https://github.com/fromjyce/PenGUIn))
 **One-Click Ubuntu Hardening Application**
 `PyGTK` `SQLite` `IPtables` `Linux Shell`
 
@@ -155,31 +138,6 @@
 
 **Technologies:** `PostgreSQL` `C` `Blockchain` `Cryptographic Hashing` `Distributed Systems`
 
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adithya-a&theme=radical" alt="Contribution Graph"/>
-</p>
-
----
-
-## 🎯 Current Focus
-
-```typescript
-const adithya = {
-    currentRole: "Research Associate @ IIT-M Pravartak",
-    education: "B.Tech CSE (Cybersecurity) @ Shiv Nadar University",
-    specialization: ["Blockchain", "Cybersecurity", "Full-Stack Development"],
-    currentlyLearning: ["Zero-Knowledge Proofs", "Advanced Cryptography", "Distributed Systems"],
-    communities: {
-        leadership: "Head of Cognition - SNUC Quiz Club",
-        participation: "OWASP Chennai Chapter"
-    },
-    funFact: "I've completed all 68 challenges across NATAS and Bandit on OverTheWire! 🎯"
-};
-```
 
 ---
 
@@ -207,5 +165,5 @@ const adithya = {
 </p>
 
 <p align="center">
-  <i>⭐️ From <a href="https://github.com/Adithya-A">Adithya Azhagiri</a> - Let's build something amazing together! 🚀</i>
+  <i>From <a href="https://github.com/Adithya-A">Adithya Azhagiri</a> - Let's build something amazing together! </i>
 </p>
